@@ -1,2 +1,2 @@
-# CS760_PB1_Animial_Identification
-Animal Identification using Deep Learning 
+# CS760_PB1
+Animal Individual Detection and Identification using Deep Learning 

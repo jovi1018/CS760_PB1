@@ -5,6 +5,6 @@ Animal Individual Detection and Identification using Deep Learning
 
     i) Constrastive Loss and Triplet Loss
 
-    ii) Close set and Open set
+    ii) Closed set and Open set
 
     iii) Dataset: https://drive.google.com/drive/folders/1LU9J415CWppI-LRM9Thw-0dG2F8rBOkb?usp=sharing

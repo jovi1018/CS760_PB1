@@ -12,5 +12,5 @@ PACKAGES:
 8. cv2
 9. tqdm
 10. zipfile
-11. pIL
+11. PIL
 12. random

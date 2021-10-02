@@ -11,5 +11,7 @@ Animal Individual Detection and Identification using Deep Learning
 
 
 Code Documentation:
-Contrastive Loss implementation is inspired by Adrian Rosebrock (https://www.pyimagesearch.com/2021/01/18/contrastive-loss-for-siamese-networks-with-keras-and-tensorflow/) 
-Triplet loss implementation is using the transorflow addons losses (https://www.tensorflow.org/addons/tutorials/losses_triplet)
+
+1) Contrastive Loss implementation is inspired by Adrian Rosebrock (https://www.pyimagesearch.com/2021/01/18/contrastive-loss-for-siamese-networks-with-keras-and-tensorflow/) 
+
+2) Triplet loss implementation is using the existing transorflow addons losses (https://www.tensorflow.org/addons/tutorials/losses_triplet)

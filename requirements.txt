@@ -14,7 +14,6 @@ PACKAGES:
 10. zipfile
 11. PIL
 12. random
-13. keras_tuner 1.0.4
 
 GPU:
 NVIDIA TESLA P100 - by kaggle

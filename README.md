@@ -20,5 +20,5 @@
 **Hyperparameters tuning during cross validation step:**
 
 1) *Learning rate*: search space [1e-5, 1e-4, 1e-3, 1e-2, 1e-1]
-2) *value k of kNN*: search space [1, 3, 5]
+2) *value k of kNN*: search space [5, 11, 21,  31]
 3) unknown/openset - *distance threshold (d_t)*: search space [0.4, 0.5, 0.6, 0.7, 0.8]

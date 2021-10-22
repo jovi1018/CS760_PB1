@@ -1,20 +1,21 @@
-LANGUAGE:
-Python 3.7.10.
+# LANGUAGE:
+# Python 3.7.10
 
-PACKAGES:
-1. numpy 1.19.5
-2. Tensorflow 2.4.1
-3. Tensorflow_addons 0.12.1
-4. sklearn 0.23.2
-5. matplotlib 3.4.3
-6. pandas 1.3.2
-7. os
-8. cv2
-9. tqdm
-10. zipfile
-11. PIL
-12. random
-13. autorank
+# GPU:
+# NVIDIA TESLA P100 - by kaggle
 
-GPU:
-NVIDIA TESLA P100 - by kaggle
+# PACKAGES
+numpy==1.19.5
+tensorflow==2.4.1
+tensorflow_addons==0.12.1
+sklearn==0.23.2
+matplotlib==3.4.3
+pandas==1.3.2
+os
+opencv-python
+tqdm
+zipfile
+PIL
+random
+autorank
+
